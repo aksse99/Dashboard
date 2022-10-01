@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(233, 254, 255);
+  background-color: black;
 }
 
 nav {
@@ -12,6 +12,7 @@ nav {
   position: fixed;
   height: 100%;
   overflow: auto;
+  position:fixed;
 }
 .w3-card-8 {
   width: 80%;
@@ -105,6 +106,7 @@ div.header {
 
 div.row {
   font-family: "Comic Sans MS", cursive, sans-serif;
+  color:blue;
 }
 
 img {
